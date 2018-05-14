@@ -18,6 +18,9 @@
 |15|[Commented on a bug](https://github.com/joannakl/cs480_s18/issues/113)|Course Website|
 |15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/116)|Course Website|
 |15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/102)|Course Website|
+|15|[Comment on a bug](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3487)|Github|
+|15|[Comment on a bug](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3147)|Github|
+
 
 
 
