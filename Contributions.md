@@ -15,9 +15,9 @@
 |10|[Updated spotify Alexa Rank username:Nrg294](https://en.wikipedia.org/w/index.php?title=Spotify&action=history)|Wikipedia|
 |15|[Commented on a bug](https://github.com/joannakl/cs480_s18/issues/118)|Course Website|
 |15|[Commented on a bug](https://github.com/joannakl/cs480_s18/issues/115)|Course Website|
-|15|[Commented on a bug](https://github.com/joannakl/cs480_s18/issues/113|Course Website|
-|15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/116|Course Website|
-|15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/102|Course Website|
+|15|[Commented on a bug}(https://github.com/joannakl/cs480_s18/issues/113)|Course Website|
+|15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/116)|Course Website|
+|15|[Review a pull request](https://github.com/joannakl/cs480_s18/pull/102)|Course Website|
 
 
 
